@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Image Processing
 uid: a96a1185-4d73-3e8f-0a13-db3e104ba10d
 ---

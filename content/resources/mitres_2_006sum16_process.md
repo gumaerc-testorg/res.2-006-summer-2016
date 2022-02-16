@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains information regarding processing instructions
   for volunteers.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-2-006-girls-who-build-cameras-summer-2016/ee6b89e1e38c739adcedb361f6c6f606_MITRES_2_006SUM16_Process.pdf
+file: /media/courses/res-2-006-girls-who-build-cameras-summer-2016/ee6b89e1e38c739adcedb361f6c6f606_MITRES_2_006SUM16_Process.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Image Processing
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Processing Instructions for Volunteers
 uid: ee6b89e1-e38c-739a-dced-b361f6c6f606

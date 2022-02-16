@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: bec74b43-2d16-b017-73ec-f480283c04c4
 ---
@@ -52,17 +54,4 @@ Participant Information
 
 ### Typical Participant Background
 
-High school girls (rising 9th-12th graders) from 22 local Massachusetts high schools. 
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![The entrance of MIT Beaver Works with the lighted beaver logo on the wall.]({{< resource_file beeddfe0-cbcf-3170-9c6d-d6be01342b6f >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Workshop
-    
-    The workshop was held in a room within [MIT Beaver Works](https://beaverworks.ll.mit.edu/CMS/bw/facility).
+High school girls (rising 9th-12th graders) from 22 local Massachusetts high schools.

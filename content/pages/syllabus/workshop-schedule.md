@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Syllabus
+parent_type: SupplementalResourceSection
 parent_uid: 1b7f2fb3-e269-5d61-84a3-bf3e7da02534
 title: Workshop Schedule
 uid: fbebbb7e-85f5-545a-6cf5-d0e232504108

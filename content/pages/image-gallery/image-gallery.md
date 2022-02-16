@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Image Gallery
+parent_type: SupplementalResourceSection
 parent_uid: c7c9456a-c26c-6dc0-0027-638fc943dc52
 title: Image Gallery
 uid: 503fb091-da38-ea4f-d201-f68990c4f1c3
@@ -8,7 +11,7 @@ uid: 503fb091-da38-ea4f-d201-f68990c4f1c3
 
 Photos taken by workshop participants on their programmed Raspberry Pi cameras.
 -------------------------------------------------------------------------------
-{{< image-gallery id="503fb091-da38-ea4f-d201-f68990c4f1c3_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/res-2-006-girls-who-build-cameras-summer-2016/" >}}
+{{< image-gallery id="503fb091-da38-ea4f-d201-f68990c4f1c3_nanogallery2" baseUrl="/courses/res-2-006-girls-who-build-cameras-summer-2016/" >}}
 {{< image-gallery-item href="e173efdbb7575c841b35191cc5be8da2_RES2006SU16_Pi_33.jpg" data-ngdesc="Students programmed Raspberry Pi cameras to take photos with different image filters. Courtesy of Kristen Railey." text="Students programmed Raspberry Pi cameras to take photos with different image filters." >}}
 {{< image-gallery-item href="0f302e03332e3c5b323e4569f5ec3b6a_RES2006SU16_Pi_34.jpg" data-ngdesc="Students programmed Raspberry Pi cameras to take photos with different image filters. Courtesy of Kristen Railey." text="Students programmed Raspberry Pi cameras to take photos with different image filters." >}}
 {{< image-gallery-item href="4e79f489601f90c73d555e22e3ee9b72_RES2006SU16_Pi_35.jpg" data-ngdesc="Students programmed Raspberry Pi cameras to take photos with different image filters. Courtesy of Kristen Railey." text="Students programmed Raspberry Pi cameras to take photos with different image filters." >}}

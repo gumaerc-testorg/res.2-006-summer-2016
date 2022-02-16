@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Digital Cameras
 uid: af68e0ed-0ea8-0df5-d1e6-013abae8e453
 ---

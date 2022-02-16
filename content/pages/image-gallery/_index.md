@@ -1,12 +1,14 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Image Gallery
 uid: c7c9456a-c26c-6dc0-0027-638fc943dc52
 ---
 
 Images taken of participants during the 2016 Girls Who Build Cameras workshop.
 ------------------------------------------------------------------------------
-{{< image-gallery id="c7c9456a-c26c-6dc0-0027-638fc943dc52_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/res-2-006-girls-who-build-cameras-summer-2016/" >}}
+{{< image-gallery id="c7c9456a-c26c-6dc0-0027-638fc943dc52_nanogallery2" baseUrl="/courses/res-2-006-girls-who-build-cameras-summer-2016/" >}}
 {{< image-gallery-item href="8a4558cfb914ad0f55a66e134d606e7d_RES2006SU16_01.jpg" data-ngdesc="Workshop participants work together to dissect a digital camera. Courtesy of Jon Barron, MIT Lincoln Laboratory." text="Workshop participants work together to dissect a digital camera." >}}
 {{< image-gallery-item href="8b3e38434fbd5edb4ea44ab22cbb49d9_RES2006SU16_02.jpg" data-ngdesc="Two workshop participants examine the interior of a digital camera. Courtesy of Jon Barron, MIT Lincoln Laboratory." text="Two workshop participants examine the interior of a digital camera." >}}
 {{< image-gallery-item href="b7d749e71ad74ec23a910223d2c5fd13_RES2006SU16_03.jpg" data-ngdesc="A high school workshop participant working on putting together a Raspberry Pi digital camera. Courtesy of Jon Barron, MIT Lincoln Laboratory." text="A high school workshop participant working on putting together a Raspberry Pi digital camera." >}}

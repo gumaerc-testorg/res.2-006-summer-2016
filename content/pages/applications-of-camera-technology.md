@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Applications of Camera Technology
 uid: be7b0d4e-8aa5-fbd3-d810-23d3381d5f65
 ---

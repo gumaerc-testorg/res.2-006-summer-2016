@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-2-006-girls-who-build-cameras-summer-2016/ceff3083999b50569d837ea4d8380d13_KhY97qoDPMg.vtt
+file: /media/courses/res-2-006-girls-who-build-cameras-summer-2016/ceff3083999b50569d837ea4d8380d13_KhY97qoDPMg.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: ceff3083-999b-5056-9d83-7ea4d8380d13
