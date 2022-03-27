@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Inspiring the Next Generation: Women''s Technology Program at MIT'
 uid: a45012c7-8e65-6ef2-6abb-3012ed5735ed
 video_files:

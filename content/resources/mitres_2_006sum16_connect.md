@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Digital Cameras
 parent_type: SupplementalResourceSection
+parent_uid: af68e0ed-0ea8-0df5-d1e6-013abae8e453
 resourcetype: Document
 title: Connect to Raspberry Pi from Windows
 uid: 03018a1e-04cb-9a96-dd6e-6023a25708b1

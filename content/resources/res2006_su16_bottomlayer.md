@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Digital Cameras
 parent_type: SupplementalResourceSection
+parent_uid: af68e0ed-0ea8-0df5-d1e6-013abae8e453
 resourcetype: Other
 title: RES2006_SU16_bottomlayer.dwg
 uid: be3f3254-e2db-e60e-e111-268698265089

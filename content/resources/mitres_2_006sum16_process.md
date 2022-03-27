@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Image Processing
 parent_type: SupplementalResourceSection
+parent_uid: a96a1185-4d73-3e8f-0a13-db3e104ba10d
 resourcetype: Document
 title: Processing Instructions for Volunteers
 uid: ee6b89e1-e38c-739a-dced-b361f6c6f606

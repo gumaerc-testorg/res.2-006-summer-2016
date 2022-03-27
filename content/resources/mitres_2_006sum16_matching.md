@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Host Your Own Workshop
 parent_type: SupplementalResourceSection
+parent_uid: c67fc51e-79d4-d91b-b9aa-7a48945edead
 resourcetype: Document
 title: Team Matching
 uid: 03cba510-9982-5843-fc8f-fee394729faf

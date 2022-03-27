@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Engineering M13 Bacteriophage NIR-II Platforms for Tumor Imaging Applications
 uid: c5678cdc-e8ce-d9fc-4f86-2ead3d793e50
 video_files:

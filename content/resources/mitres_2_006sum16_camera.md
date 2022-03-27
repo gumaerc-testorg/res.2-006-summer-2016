@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Digital Cameras
 parent_type: SupplementalResourceSection
+parent_uid: af68e0ed-0ea8-0df5-d1e6-013abae8e453
 resourcetype: Document
 title: Camera Instructions
 uid: bd36dbbc-9476-541b-c540-2f776628d202

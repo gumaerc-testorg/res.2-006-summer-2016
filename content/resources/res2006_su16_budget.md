@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Host Your Own Workshop
 parent_type: SupplementalResourceSection
+parent_uid: c67fc51e-79d4-d91b-b9aa-7a48945edead
 resourcetype: Other
 title: RES2006_SU16_Budget.xlsx
 uid: 12742480-48fe-fd1f-6b2e-032f1c50f4ed

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Applications of Camera Technology
 parent_type: SupplementalResourceSection
+parent_uid: be7b0d4e-8aa5-fbd3-d810-23d3381d5f65
 resourcetype: Document
 title: Society of Women Engineers Presentation
 uid: fb38a3ed-6c36-8a66-a2fa-76055e05afb4

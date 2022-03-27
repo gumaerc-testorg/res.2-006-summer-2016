@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Image Processing
 parent_type: SupplementalResourceSection
+parent_uid: a96a1185-4d73-3e8f-0a13-db3e104ba10d
 resourcetype: Document
 title: Image Processing
 uid: f36817f5-d898-77a8-6669-d10f43826a02

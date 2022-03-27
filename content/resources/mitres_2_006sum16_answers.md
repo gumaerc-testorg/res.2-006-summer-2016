@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Image Processing
 parent_type: SupplementalResourceSection
+parent_uid: a96a1185-4d73-3e8f-0a13-db3e104ba10d
 resourcetype: Document
 title: Processing Instructions Answer Key
 uid: a763761e-668c-b30d-fe01-b3a4008b90a8

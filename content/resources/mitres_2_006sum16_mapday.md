@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Host Your Own Workshop
 parent_type: SupplementalResourceSection
+parent_uid: c67fc51e-79d4-d91b-b9aa-7a48945edead
 resourcetype: Document
 title: Map of the Day
 uid: e8c3b3d1-1f0a-559a-0bfd-805982862f67

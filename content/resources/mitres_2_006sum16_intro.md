@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Digital Cameras
 parent_type: SupplementalResourceSection
+parent_uid: af68e0ed-0ea8-0df5-d1e6-013abae8e453
 resourcetype: Document
 title: INTRO TO DIGITAL CAMERAS
 uid: ecb21787-3f12-b035-c8e8-5b3c8f16d3be

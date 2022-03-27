@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Digital Cameras
 parent_type: SupplementalResourceSection
+parent_uid: af68e0ed-0ea8-0df5-d1e6-013abae8e453
 resourcetype: Other
 title: RES2006_SU16_take_picture.py
 uid: c270701c-3f39-e438-21d7-4fb9fbe52235

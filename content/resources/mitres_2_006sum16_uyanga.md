@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Applications of Camera Technology
 parent_type: SupplementalResourceSection
+parent_uid: be7b0d4e-8aa5-fbd3-d810-23d3381d5f65
 resourcetype: Document
 title: ENGINEERING M13 BACTERIOPHAGE PLATFORMS FOR CANCER THERAPY APPLICATIONS
 uid: e0d8a1e6-1993-3f21-5920-6c0ca20f89d7

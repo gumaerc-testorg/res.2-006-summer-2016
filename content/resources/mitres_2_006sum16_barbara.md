@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Applications of Camera Technology
 parent_type: SupplementalResourceSection
+parent_uid: be7b0d4e-8aa5-fbd3-d810-23d3381d5f65
 resourcetype: Document
 title: WTP for Beaverworks June 2016
 uid: 0efeb406-254d-3ce1-7a7f-b06ca595311c
