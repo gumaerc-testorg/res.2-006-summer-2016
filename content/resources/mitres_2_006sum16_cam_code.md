@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding camera code instructions.
-file: /media/courses/res-2-006-girls-who-build-cameras-summer-2016/272fba9b6a453e08e37b650a5d6acdbb_MITRES_2_006SUM16_Cam_Code.pdf
+file: /courses/res-2-006-girls-who-build-cameras-summer-2016/272fba9b6a453e08e37b650a5d6acdbb_MITRES_2_006SUM16_Cam_Code.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: Camera Code Instructions
 uid: 272fba9b-6a45-3e08-e37b-650a5d6acdbb
 ---
+This resource contains information regarding camera code instructions.
+

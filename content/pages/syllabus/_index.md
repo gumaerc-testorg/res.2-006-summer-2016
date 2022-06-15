@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains general information about the workshop.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Syllabus
@@ -9,7 +10,7 @@ uid: 1b7f2fb3-e269-5d61-84a3-bf3e7da02534
 Workshop Meeting Time
 ---------------------
 
-[One seven-hour session]({{< baseurl >}}/pages/syllabus/workshop-schedule)
+{{% resource_link fbebbb7e-85f5-545a-6cf5-d0e232504108 "One seven-hour session" %}}
 
 Description
 -----------

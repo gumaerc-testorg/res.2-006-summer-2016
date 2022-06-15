@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information about how cameras and image processing
+  are applied in real-world scenarios.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Applications of Camera Technology
@@ -22,7 +24,7 @@ Workshop Goals
 
 Kris Clark, TESS Deputy Program Manager, MIT Lincoln Laboratory
 
-[Lecture Slides (PDF)]({{< baseurl >}}/resources/mitres_2_006sum16_kris)
+{{% resource_link 58d2e497-3f34-833f-0009-1f8aa54ebe5d "Lecture Slides (PDF)" %}}
 
 {{< resource 8e22de68-c60e-0bb6-06bd-b3509d90deae >}}
 
@@ -31,7 +33,7 @@ Kris Clark, TESS Deputy Program Manager, MIT Lincoln Laboratory
 
 Uyanga Tsedev, Biomolecular Materials Group
 
-[Lecture Slides (PDF - 2.0MB)]({{< baseurl >}}/resources/mitres_2_006sum16_uyanga)
+{{% resource_link e0d8a1e6-1993-3f21-5920-6c0ca20f89d7 "Lecture Slides (PDF - 2.0MB)" %}}
 
 {{< resource c5678cdc-e8ce-d9fc-4f86-2ead3d793e50 >}}
 
@@ -40,7 +42,7 @@ Uyanga Tsedev, Biomolecular Materials Group
 
 Barbara Hughey, Ph.D., Women's Technology Program Associate Director; Instructor, Department of Mechanical Engineering at MIT
 
-[Lecture Slides (PDF - 1.6MB)]({{< baseurl >}}/resources/mitres_2_006sum16_barbara)
+{{% resource_link 0efeb406-254d-3ce1-7a7f-b06ca595311c "Lecture Slides (PDF - 1.6MB)" %}}
 
 {{< resource a45012c7-8e65-6ef2-6abb-3012ed5735ed >}}
 
@@ -49,7 +51,7 @@ Barbara Hughey, Ph.D., Women's Technology Program Associate Director; Instructor
 
 Nicole Woon, Society of Women Engineers
 
-[Lecture Slides (PDF)]({{< baseurl >}}/resources/mitres_2_006sum16_nicole)
+{{% resource_link fb38a3ed-6c36-8a66-a2fa-76055e05afb4 "Lecture Slides (PDF)" %}}
 
 {{< resource 9f5be59c-3360-846f-9944-69d5556b862f >}}
 

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Image Processing
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Oliva Glennon from Fathom Information Design in Boston, MA discusses data visualization and information design.
 
 **Instructor:** Olivia Glennon
+
+
+

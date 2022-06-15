@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ' This section contains information about the schedule for the workshop.'
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Syllabus

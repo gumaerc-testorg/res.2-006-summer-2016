@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Host Your Own Workshop
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Promotional video for "Girls Who Build Cameras," hosted by MIT Lincoln Laboratory's Beaverworks Center.
 
 **Instructor:** Kristen Railey
+
+
+

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information about how to run your own version of
+  this workshop.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Host Your Own Workshop
@@ -28,8 +30,8 @@ Closing Remarks
 
 **Resources**
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Map of the Day (PDF)]({{< baseurl >}}/resources/mitres_2_006sum16_mapday)
+{{% resource_link e8c3b3d1-1f0a-559a-0bfd-805982862f67 "Map of the Day (PDF)" %}}
 
-[Team Matching (PDF)]({{< baseurl >}}/resources/mitres_2_006sum16_matching)
+{{% resource_link 03cba510-9982-5843-fc8f-fee394729faf "Team Matching (PDF)" %}}
 
-[Budget (XLSX)]({{< baseurl >}}/resources/res2006_su16_budget)
+{{% resource_link 12742480-48fe-fd1f-6b2e-032f1c50f4ed "Budget (XLSX)" %}}

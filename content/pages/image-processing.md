@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information about how image processing in digital
+  cameras works.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Image Processing
@@ -16,7 +18,7 @@ During this lecture, girls learn about what image processing is and how it works
 
 Olivia Glennon, [Fathom](https://fathom.info/)
 
-[Lecture Slides (PDF - 1.1MB)]({{< baseurl >}}/resources/mitres_2_006sum16_olivia)
+{{% resource_link f36817f5-d898-77a8-6669-d10f43826a02 "Lecture Slides (PDF - 1.1MB)" %}}
 
 {{< resource 351567bb-664c-8891-87d1-13479e9d0fcf >}}
 
@@ -29,23 +31,23 @@ During this section of the workshop, participants had the opportunity to learn t
 
 {{< resource 2ca53423-88e4-63a5-b258-fce838e5e27f >}}
 
-[Image Processing Overview (PDF)]({{< baseurl >}}/resources/mitres_2_006sum16_insights)
+{{% resource_link 2603023c-bb11-ed65-6a8a-a25ef3882dc4 "Image Processing Overview (PDF)" %}}
 
-[Processing Instructions for Volunteers (PDF)]({{< baseurl >}}/resources/mitres_2_006sum16_process)
+{{% resource_link ee6b89e1-e38c-739a-dced-b361f6c6f606 "Processing Instructions for Volunteers (PDF)" %}}
 
-[Processing Instructions Answer Key (PDF)]({{< baseurl >}}/resources/mitres_2_006sum16_answers)
+{{% resource_link a763761e-668c-b30d-fe01-b3a4008b90a8 "Processing Instructions Answer Key (PDF)" %}}
 
-[Processing Instructions (PDF)]({{< baseurl >}}/resources/mitres_2_006sum16_instruc)
+{{% resource_link edc34e44-101c-9c55-95bb-f7438c357b87 "Processing Instructions (PDF)" %}}
 
 Files
 -----
 
 (Each of these archives contains 1 image file and 1 .pde file, which can be opened with [Processing](https://www.processing.org/))
 
-[Image Flip (ZIP)]({{< baseurl >}}/resources/image_flip)
+{{% resource_link 53cb4be5-3f40-5d96-cbec-8bb1a6832172 "Image Flip (ZIP)" %}}
 
-[Single Color (ZIP)]({{< baseurl >}}/resources/single_color)
+{{% resource_link f66dc694-cf31-78a2-fc70-8e7951ec39a2 "Single Color (ZIP)" %}}
 
-[Vignette (ZIP)]({{< baseurl >}}/resources/vignette)
+{{% resource_link cfeec479-71aa-8d21-8ed3-6e49d7714894 "Vignette (ZIP)" %}}
 
-[Instagram Filter (ZIP - 2.0MB)]({{< baseurl >}}/resources/instagram_filter)
+{{% resource_link 2746e970-cf65-5275-5b13-3775d1824bef "Instagram Filter (ZIP - 2.0MB)" %}}

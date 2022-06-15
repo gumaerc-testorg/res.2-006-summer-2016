@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Applications of Camera Technology
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Uygana Tsedev from the Koch Institute talks about how biological engineering is used to find and image deeply embedded and difficult to reach tumors.
 
 **Instructor:** Uyanga Tsedev
+
+
+

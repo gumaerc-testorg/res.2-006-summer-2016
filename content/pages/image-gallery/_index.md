@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains photos taken during the workshop.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Image Gallery

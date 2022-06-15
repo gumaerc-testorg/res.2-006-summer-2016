@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Applications of Camera Technology
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Nicole Woon and Elaine Lee from the Soceity of Women Engineers discuss SWE's background and opportunities for high school students.
 
 **Instructors:** Nicole Woon and Elaine Lee
+
+
+
