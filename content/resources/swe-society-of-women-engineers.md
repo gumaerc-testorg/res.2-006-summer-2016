@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Nicole Woon and Elaine Lee from the Soceity of Women Engineers discuss SWE's background and opportunities for high school students.
 
 **Instructors:** Nicole Woon and Elaine Lee
-
-
 

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Barbara Hughey, Ph.D. from the Women's Technology Program at MIT discusses the workshops and programs hosted for high school girls as part of the WTP.
 
 **Instructor:** Barbara Hughey, Ph.D.
-
-
 

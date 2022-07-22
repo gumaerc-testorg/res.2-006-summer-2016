@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-2-006-girls-who-build-cameras-summer-2016/2655e547c731514e818d695ef5eace5e_-4C9-OgKLCY.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

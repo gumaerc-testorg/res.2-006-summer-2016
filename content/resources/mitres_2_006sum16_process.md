@@ -5,6 +5,7 @@ description: This resource contains information regarding processing instruction
 file: /courses/res-2-006-girls-who-build-cameras-summer-2016/ee6b89e1e38c739adcedb361f6c6f606_MITRES_2_006SUM16_Process.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Image Processing
 parent_type: SupplementalResourceSection
@@ -14,4 +15,3 @@ title: Processing Instructions for Volunteers
 uid: ee6b89e1-e38c-739a-dced-b361f6c6f606
 ---
 This resource contains information regarding processing instructions for volunteers.
-

@@ -11,10 +11,10 @@ image_metadata:
   image-alt: A photograph of a girl holding parts of a programmable camera as part
     of the Girls Who Build Cameras workshop.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-2-006sum16-th.jpg
 uid: 8e60dab5-5e9b-a404-c7df-e5645d5a8978
 ---
 Girls built and programmed their own Raspberry Pi cameras as part of the Girls Who Build Cameras workshop. Courtesy of Jon Barron, MIT Lincoln Laboratory.
-

@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-2-006-girls-who-build-cameras-summer-2016/58d2e4973f34833f00091f8aa54ebe5d_MITRES_2_006SUM16_Kris.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Applications of Camera Technology
 parent_type: SupplementalResourceSection

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description**: Kris Clark from the Lincoln Laboratory discusses cameras, components of a camera, and details about her project with space cameras.
 
 **Instructor**: Kris Clark
-
-
 
