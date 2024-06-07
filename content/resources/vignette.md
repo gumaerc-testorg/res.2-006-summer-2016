@@ -2,6 +2,7 @@
 content_type: resource
 description: This special file contains information regarding vignette.
 file: /courses/res-2-006-girls-who-build-cameras-summer-2016/cfeec47971aa8d218ed36e49d7714894_vignette.zip
+file_size: 669129
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

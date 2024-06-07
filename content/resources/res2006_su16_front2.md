@@ -2,6 +2,7 @@
 content_type: resource
 description: This special file contains information regarding front 2.
 file: /courses/res-2-006-girls-who-build-cameras-summer-2016/40cc0fb8473c29435ef9ae620278724b_RES2006_SU16_front2.dwg
+file_size: 18495
 file_type: image/vnd.dwg
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

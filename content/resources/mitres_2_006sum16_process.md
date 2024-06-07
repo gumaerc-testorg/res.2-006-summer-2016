@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding processing instructions
   for volunteers.
 file: /courses/res-2-006-girls-who-build-cameras-summer-2016/ee6b89e1e38c739adcedb361f6c6f606_MITRES_2_006SUM16_Process.pdf
+file_size: 88069
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
