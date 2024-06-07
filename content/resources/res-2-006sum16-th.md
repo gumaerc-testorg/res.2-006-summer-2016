@@ -3,6 +3,7 @@ content_type: resource
 description: Girls built and programmed their own Raspberry Pi cameras as part of
   the Girls Who Build Cameras workshop. Courtesy of Jon Barron, MIT Lincoln Laboratory.
 file: /courses/res-2-006-girls-who-build-cameras-summer-2016/8e60dab55e9ba404c7dfe5645d5a8978_res-2-006sum16-th.jpg
+file_size: 10425
 file_type: image/jpeg
 image_metadata:
   caption: Girls built and programmed their own Raspberry Pi cameras as part of the
