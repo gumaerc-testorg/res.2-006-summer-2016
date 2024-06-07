@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-2-006-girls-who-build-cameras-summer-2016/71d133973666a154d21e7f957c1389eb_ow2TNmzadXc.pdf
+file_size: 23365
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
