@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding map of the day.
-file: /courses/res-2-006-girls-who-build-cameras-summer-2016/e8c3b3d11f0a559a0bfd805982862f67_MITRES_2_006SUM16_MapDay.pdf
+file: /ol-ocw-studio-app/courses/res-2-006-girls-who-build-cameras-summer-2016/e8c3b3d11f0a559a0bfd805982862f67_MITRES_2_006SUM16_MapDay.pdf
 file_size: 318390
 file_type: application/pdf
 learning_resource_types: []
