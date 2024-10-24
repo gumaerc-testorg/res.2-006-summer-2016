@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This special file contains information regarding front 1.
-file: /courses/res-2-006-girls-who-build-cameras-summer-2016/95cafcf13960abd197a9df591e9f504b_RES2006_SU16_front1.dwg
+file: /ol-ocw-studio-app/courses/res-2-006-girls-who-build-cameras-summer-2016/95cafcf13960abd197a9df591e9f504b_RES2006_SU16_front1.dwg
 file_size: 115612
 file_type: image/vnd.dwg
 learning_resource_types: []
