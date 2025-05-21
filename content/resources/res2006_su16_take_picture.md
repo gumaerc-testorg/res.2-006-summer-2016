@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file related to Python Code for Raspberry Pi .
-file: /ol-ocw-studio-app/courses/res-2-006-girls-who-build-cameras-summer-2016/c270701c3f39e43821d74fb9fbe52235_RES2006_SU16_take_picture.py
+file: /courses/res-2-006-girls-who-build-cameras-summer-2016/c270701c3f39e43821d74fb9fbe52235_RES2006_SU16_take_picture.py
 file_size: 2675
 file_type: text/python-source
 learning_resource_types: []

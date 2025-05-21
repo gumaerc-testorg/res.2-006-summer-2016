@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding engineering M13 bacteriophage
   NIR-II platforms for tumor imaging applications.
-file: /ol-ocw-studio-app/courses/res-2-006-girls-who-build-cameras-summer-2016/e0d8a1e619933f2159206c0ca20f89d7_MITRES_2_006SUM16_Uyanga.pdf
+file: /courses/res-2-006-girls-who-build-cameras-summer-2016/e0d8a1e619933f2159206c0ca20f89d7_MITRES_2_006SUM16_Uyanga.pdf
 file_size: 2051258
 file_type: application/pdf
 learning_resource_types: []
