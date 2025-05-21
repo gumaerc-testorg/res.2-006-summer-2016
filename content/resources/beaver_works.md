@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: photo of Beaver Works
-file: /ol-ocw-studio-app/courses/res-2-006-girls-who-build-cameras-summer-2016/beeddfe0cbcf31709c6dd6be01342b6f_beaver_works.jpg
+file: /courses/res-2-006-girls-who-build-cameras-summer-2016/beeddfe0cbcf31709c6dd6be01342b6f_beaver_works.jpg
 file_size: 89895
 file_type: image/jpeg
 image_metadata:
