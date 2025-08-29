@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding setting up SSH.
-file: /courses/res-2-006-girls-who-build-cameras-summer-2016/03018a1e04cb9a96dd6e6023a25708b1_MITRES_2_006SUM16_Connect.pdf
+file: /ol-ocw-studio-app/courses/res-2-006-girls-who-build-cameras-summer-2016/03018a1e04cb9a96dd6e6023a25708b1_MITRES_2_006SUM16_Connect.pdf
 file_size: 918215
 file_type: application/pdf
 learning_resource_types: []

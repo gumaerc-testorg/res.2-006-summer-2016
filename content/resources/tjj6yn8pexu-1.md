@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-2-006-girls-who-build-cameras-summer-2016/1f7de55027a49197132906197c2a1df5_tJj6YN8peXU.pdf
+file: /ol-ocw-studio-app/courses/res-2-006-girls-who-build-cameras-summer-2016/1f7de55027a49197132906197c2a1df5_tJj6YN8peXU.pdf
 file_size: 48595
 file_type: application/pdf
 learning_resource_types: []
