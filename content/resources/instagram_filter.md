@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This special file contains information regarding instagram filter.
-file: /courses/res-2-006-girls-who-build-cameras-summer-2016/2746e970cf6552755b133775d1824bef_Instagram_filter.zip
+file: /ol-ocw-studio-app/courses/res-2-006-girls-who-build-cameras-summer-2016/2746e970cf6552755b133775d1824bef_Instagram_filter.zip
 file_size: 2132882
 file_type: application/zip
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This special file contains information regarding bottom layer.
-file: /courses/res-2-006-girls-who-build-cameras-summer-2016/be3f3254e2dbe60ee111268698265089_RES2006_SU16_bottomlayer.dwg
+file: /ol-ocw-studio-app/courses/res-2-006-girls-who-build-cameras-summer-2016/be3f3254e2dbe60ee111268698265089_RES2006_SU16_bottomlayer.dwg
 file_size: 19684
 file_type: image/vnd.dwg
 learning_resource_types: []

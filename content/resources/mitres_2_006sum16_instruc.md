@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding processing instructions.
-file: /courses/res-2-006-girls-who-build-cameras-summer-2016/edc34e44101c9c5595bbf7438c357b87_MITRES_2_006SUM16_Instruc.pdf
+file: /ol-ocw-studio-app/courses/res-2-006-girls-who-build-cameras-summer-2016/edc34e44101c9c5595bbf7438c357b87_MITRES_2_006SUM16_Instruc.pdf
 file_size: 106398
 file_type: application/pdf
 learning_resource_types: []
