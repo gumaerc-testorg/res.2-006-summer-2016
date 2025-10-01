@@ -16,7 +16,7 @@ During this lecture, girls learn about what image processing is and how it works
 "Intro to Image Processing"
 ---------------------------
 
-Olivia Glennon, [Fathom](https://fathom.info/)
+Olivia Glennon, {{% resource_link "d9f75d2e-051f-4fc8-960d-527743bb1efd" "Fathom" %}}
 
 {{% resource_link f36817f5-d898-77a8-6669-d10f43826a02 "Lecture Slides (PDF - 1.1MB)" %}}
 
@@ -42,7 +42,7 @@ During this section of the workshop, participants had the opportunity to learn t
 Files
 -----
 
-(Each of these archives contains 1 image file and 1 .pde file, which can be opened with [Processing](https://www.processing.org/))
+(Each of these archives contains 1 image file and 1 .pde file, which can be opened with {{% resource_link "6ff4ba31-2b94-4205-bc4f-c2baf2e5e870" "Processing" %}})
 
 {{% resource_link 53cb4be5-3f40-5d96-cbec-8bb1a6832172 "Image Flip (ZIP)" %}}
 
